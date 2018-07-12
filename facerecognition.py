@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 24 14:02:26 2018
 
-@author: Nawa
-"""
 
 import cv2
 
